@@ -5,4 +5,5 @@ Estudo de formulário feito em <strong>HTML</strong>, <strong>CSS</strong> e <st
 <br>
 <h3> Versão Desktop </h3>
 
-![Capturar](https://user-images.githubusercontent.com/111023661/228977387-d2cefddf-1b18-47fc-92ff-835fd78752f8.JPG)
+![Capturar](https://user-images.githubusercontent.com/111023661/228977675-31987cc4-0751-4e10-b92f-735103363c58.JPG)
+
