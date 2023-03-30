@@ -17,6 +17,17 @@ form {
     gap: .5rem;
     width: 500px;
     margin: 0 auto;
+   
+}
+
+.back {
+    background-color: #f7f7f7;
+    border-radius: 14px;
+    padding-top: 2em;
+    width: 600px;
+    height: 580px;
+    margin: 0 auto;
+
 }
 
 label {
